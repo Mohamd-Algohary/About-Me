@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Mohamed-Algohary
-- 👋 I’m a .Net full-Stack developer & Flutter & Revit developer
+- 👋 I’m a Node.js developer & Flutter & Revit developer
 - 👀 I’m interested in C# & Python & JavaScript & Dart
 - 📫 How to reach me---> (mohamedalgohary62@gmail.com)
